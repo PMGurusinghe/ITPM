@@ -1,0 +1,51 @@
+.topic{
+	
+	color: white;
+	text-decoration: italic;
+	position: absolute;
+	right: 42%;
+	bottom : 70%
+	
+	
+	
+}
+.texbox{
+	
+	position: absolute;
+	left: 20%;
+	bottom: 20%;
+	
+}
+.texbox2{
+	
+	position: absolute;
+	left: 49%;
+	bottom: 20%;
+	
+}
+
+.btnexcute{
+	
+
+	position: absolute;
+	left: 42%;
+	bottom: 10%;
+	padding: 5px 42px;
+}
+.btnback{
+	
+
+	position: absolute;
+	left: 25%;
+	bottom: 10%;
+	padding: 5px 42px;
+}
+.btnclear{
+	
+	position: absolute;
+	left: 60%;
+	bottom: 10%;
+	padding: 5px 42px;
+	
+	
+}
