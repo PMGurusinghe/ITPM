@@ -2186,3 +2186,6 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2020-03-24 20:26:57.691
+!MESSAGE Plug-in 'org.eclipse.egit.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.search.menu' is invalid): org.eclipse.egit.ui.actions.OpenCommitSearchPage
