@@ -1,0 +1,7 @@
+
+Mar 23, 2020 21:59:28.49 NEW SESSION
+Mar 23, 2020 21:59:28.49 [10060:12116:0323/215928.481:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Mar 23, 2020 22:14:39.13 [10060:12116:0323/221439.138:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Mar 23, 2020 22:14:46.31 [10060:12116:0323/221446.312:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Mar 23, 2020 22:39:06.66 [10060:12116:0323/223906.660:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Mar 23, 2020 22:39:14.26 [10060:12116:0323/223914.259:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
