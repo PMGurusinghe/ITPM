@@ -1,0 +1,34 @@
+
+th{
+  background-color: #4628B8;
+}
+table{
+  text-align: center;
+}
+
+/*.input-group.md-form.form-sm.form-1 input{
+border: 1px solid #4628B8;
+border-top-right-radius: 0.25rem;
+border-bottom-right-radius: 0.25rem;
+}*/
+.my-custom-scrollbar {
+position: relative;
+height: 1000px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+.input-group.md-form.form-sm.form-2 input {
+border: 1px solid #4628B8;
+border-top-left-radius: 0.25rem;
+border-bottom-left-radius: 0.25rem;
+}
+.input-group.md-form.form-sm.form-2 input.purple-border {
+border: 1px solid #4628B8;
+}
+
+.btn-search{
+  height: 39px;
+  margin-left: 2px;
+}
